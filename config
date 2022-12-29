@@ -1,0 +1,5 @@
+Host 192.168.100.98 
+	HostName 192.168.100.98   
+	User yd  
+	ForwardAgent yes
+	IdentityFile C:\Users\86166\.ssh\id_rsa
